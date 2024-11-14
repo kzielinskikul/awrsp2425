@@ -1,4 +1,4 @@
-package Person.Car;
+package Car;
 
 public class CarService {
 }
